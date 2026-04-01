@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+output_resume.md
+output_cover_letter.txt
+*.pdf
+.streamlit/
